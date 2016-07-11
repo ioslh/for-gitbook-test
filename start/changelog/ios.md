@@ -5,3 +5,4 @@
 - 优化屏幕旋转及状态栏的相关逻辑；
 - 优化网络请求跟踪 `ASIHTTPRequest` 的相关逻辑；
 - 优化一些细节。
+{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}

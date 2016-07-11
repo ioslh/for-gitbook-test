@@ -1,4 +1,4 @@
 module.exports = {
-    "gitbook":"3.1.1",
+    "gitbook":"2.2.0",
     "plugins":['youtube']
 };
